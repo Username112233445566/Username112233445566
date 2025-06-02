@@ -1,4 +1,4 @@
-<img src="git_dashv3.png" alt="GitHub Banner" width="100%" />
+<img src="git_dashv3.png" alt="GitHub Banner" width="50%" />
 
 # 👋 Привет! Я Umar — FullStack & DevOps разработчик из Кыргызстана
 
