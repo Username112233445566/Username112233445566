@@ -1,5 +1,3 @@
-<img src="git_dashv3.png" alt="GitHub Banner" width="100%" style="max-height: 180px; object-fit: cover;" />
-
 # 👋 Привет! Я Umar — FullStack & DevOps разработчик из Кыргызстана
 
 🛠 Сейчас работаю над своим сайтом: [umar](https://t/)    
