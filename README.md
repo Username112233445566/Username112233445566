@@ -1,6 +1,5 @@
-# 👋 Привет! Я Umar — FullStack & DevOps разработчик из Кыргызстана
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Umar+Kasenov)](https://git.io/typing-svg)
 
-🛠 Сейчас работаю над своим сайтом: [umar](https://t/)    
 💻 Пишу бэкенд и автоматизирую DevOps-процессы с 2022 года  
 
 ---
