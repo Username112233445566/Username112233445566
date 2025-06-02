@@ -1,10 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Umar+Kasenov)](https://git.io/typing-svg)
 
-💻 Пишу бэкенд и автоматизирую DevOps-процессы с 2022 года  
+💻 I'm a DevOps Engineer and Backend Developer since 2022 — currently expanding into Fullstack Development.
+
+I build and scale backend systems, automate DevOps processes, and launch my own startups.  
+I'm now diving into Frontend to complete my fullstack journey.  
+
+📬 **Open to job opportunities and collaborations.**
 
 ---
 
-## 🧠 Мой стек технологий
+## 🧠 Tech Stack
 
 ### 🚀 Backend & DevOps:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -13,7 +18,6 @@
 ![Celery](https://img.shields.io/badge/celery-%2338813D.svg?style=for-the-badge&logo=celery&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### ☁️ DevOps & Cloud:
@@ -33,7 +37,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
