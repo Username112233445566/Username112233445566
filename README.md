@@ -15,6 +15,14 @@ I'm now diving into Frontend to complete my fullstack journey.
 
 ---
 
+![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+---
+
 ## 🧠 Tech Stack
 
 ### 🚀 Backend & Frontend:
