@@ -17,8 +17,6 @@ I'm now diving into Frontend to complete my fullstack journey.
 
 ## 📊 GitHub Stats
 
-![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Username112233445566&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=000000)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Username112233445566&layout=compact&title_color=FF0000&text_color=FFFFFF&bg_color=000000)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Username112233445566&theme=dark&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF&background=000000)](https://git.io/streak-stats)
