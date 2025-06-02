@@ -15,11 +15,11 @@ I'm now diving into Frontend to complete my fullstack journey.
 
 ---
 
-![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Username112233445566&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Username112233445566&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Username112233445566&theme=radical)](https://git.io/streak-stats)
 
 ---
 
