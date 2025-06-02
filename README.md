@@ -1,4 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Umar+Kasenov)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Umar+Kasenov" 
+      alt="Typing SVG" />
+  </a>
+</p>
 
 💻 I'm a DevOps Engineer and Backend Developer since 2022 — currently expanding into Fullstack Development.
 
